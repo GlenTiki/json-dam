@@ -1,0 +1,35 @@
+{
+  "name": "json-dam",
+  "version": "0.0.1",
+  "description": "Fill in a json stream with a dam of data!",
+  "main": "index.js",
+  "bin": {
+    "json-dam": "cli.js"
+  },
+  "scripts": {
+    "test": "standard && tap test/**.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekemkid/json-dam.git"
+  },
+  "keywords": [
+    "JSON",
+    "Stream",
+    "JSONStream",
+    "NDJson"
+  ],
+  "author": "Glen Keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thekemkid/json-dam/issues"
+  },
+  "homepage": "https://github.com/thekemkid/json-dam#readme",
+  "dependencies": {
+    "ndjson": "^1.5.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tap": "^8.0.1"
+  }
+}
