@@ -1,6 +1,6 @@
 {
   "name": "json-dam",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fill in a json stream with a dam of data!",
   "main": "index.js",
   "bin": {
