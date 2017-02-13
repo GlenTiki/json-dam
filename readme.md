@@ -71,7 +71,7 @@ I recommend checking out the tests to get a full understanding of the usage of t
 
 Thanks to [Matteo Collina](https://github.com/mcollina) for taking a look at this in the early stages.
 
-Thanks to [Rob Jefe Lindstaet](https://github.com/eljefedelrodeodeljefe) for talking about the initial idea with me.
+Thanks to [Rob Jefe Lindstädt](https://github.com/eljefedelrodeodeljefe) for talking about the initial idea with me.
 
 ## License
 
